@@ -1,4 +1,6 @@
-# This file contains skeleton code provided by Professor Sohn. Refer to skeleton.py for his contribution.
+# This file contains skeleton code provided by Professor Sohn.
+# Refer to skeleton.py for the provided skeleton code. I take NO credit for it.
+# Refer to README.md for more information.
 #!/user/bin/python
 import sys
 import os
