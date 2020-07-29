@@ -1,6 +1,4 @@
-# CS288 Homework 8
-# Read the skeleton code carefully and try to follow the structure
-# You may modify the code but try to stay within the framework.
+# This file contains skeleton code provided by Professor Sohn. Refer to skeleton.py for his contribution.
 #!/user/bin/python
 import sys
 import os
@@ -137,5 +135,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# end of hw8.py
